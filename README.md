@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @afkisch
 - 👀 I’m interested in Electronics and Programming
-- 🌱 I’m currently learning Electrical Engineering
+- 🌱 I’m currently studying Electrical Engineering at Karlsruhe Institute of Technology
 - 📫 afkisch@gmail.com
