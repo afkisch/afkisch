@@ -2,3 +2,4 @@
 - 👀 I’m interested in Electronics and Programming
 - 🌱 I’m currently studying Electrical Engineering at Karlsruhe Institute of Technology
 - 📫 afkisch@gmail.com
+- 🍕 💸
