@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @afkisch
 - 👀 I’m interested in Electronics and Programming
-- 🌱 I’m currently studying Electrical Engineering at KIT and TU Budapest
+- 🌱 I’m currently studying Biomedical Engineering at FH Technikum Wien
 - 📫 afkisch@gmail.com
 - 🍕 💸
